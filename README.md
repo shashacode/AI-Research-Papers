@@ -1,6 +1,6 @@
-This repository contains some of my research papers I have worked on.
+This repository contains some of the research papers I have worked on.
 The Generative AI Possibility paper is a whitepaper written collaboratively to discuss Generative AI application across differnt field. 
-My contribution can be found in chapter 5 (page 33) titled 'Filling the Protein Gap with Generative AI'. It will interest you if you are interested in Generative AI for Biology
+My contribution can be found in chapter 5 (page 33) titled **Filling the Protein Gap with Generative AI**. It will interest you if you are interested in Generative AI for Biology
 
 The Geosemantic Entity Recognition paper was accepted and presented at Data Science Africa conference and the Deep Learning Indaba conference.
 The paper Title is **Geosemantic Entity Recognition and Mapping of Electoral Violence Hotspots from News Reports**
